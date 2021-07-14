@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/Osmond-Simmons/Navi-Webstack</id>
+    <id>https://github.com/Osmond-Simmons/Osmond-Simmons.github.io</id>
     <title>Gridea</title>
-    <updated>2021-07-13T01:36:30.134Z</updated>
+    <updated>2021-07-14T13:44:41.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/Osmond-Simmons/Navi-Webstack"/>
-    <link rel="self" href="https://github.com/Osmond-Simmons/Navi-Webstack/atom.xml"/>
+    <link rel="alternate" href="https://github.com/Osmond-Simmons/Osmond-Simmons.github.io"/>
+    <link rel="self" href="https://github.com/Osmond-Simmons/Osmond-Simmons.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://github.com/Osmond-Simmons/Navi-Webstack/images/avatar.png</logo>
-    <icon>https://github.com/Osmond-Simmons/Navi-Webstack/favicon.ico</icon>
+    <logo>https://github.com/Osmond-Simmons/Osmond-Simmons.github.io/images/avatar.png</logo>
+    <icon>https://github.com/Osmond-Simmons/Osmond-Simmons.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[从巴塞尔问题的证明到黎曼猜想]]></title>
-        <id>https://github.com/Osmond-Simmons/Navi-Webstack/post/cong-ba-sai-er-wen-ti-de-zheng-ming-dao-li-man-cai-xiang/</id>
-        <link href="https://github.com/Osmond-Simmons/Navi-Webstack/post/cong-ba-sai-er-wen-ti-de-zheng-ming-dao-li-man-cai-xiang/">
+        <id>https://github.com/Osmond-Simmons/Osmond-Simmons.github.io/post/cong-ba-sai-er-wen-ti-de-zheng-ming-dao-li-man-cai-xiang/</id>
+        <link href="https://github.com/Osmond-Simmons/Osmond-Simmons.github.io/post/cong-ba-sai-er-wen-ti-de-zheng-ming-dao-li-man-cai-xiang/">
         </link>
         <updated>2021-07-13T01:25:04.000Z</updated>
         <content type="html"><![CDATA[<p>巴塞尔问题(Basel problem)</p>
@@ -112,8 +112,8 @@ s-65,47,-65,47z M834 80H400000v40H845z'/></svg></span></span></span><span class=
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://github.com/Osmond-Simmons/Navi-Webstack/post/hello-gridea/</id>
-        <link href="https://github.com/Osmond-Simmons/Navi-Webstack/post/hello-gridea/">
+        <id>https://github.com/Osmond-Simmons/Osmond-Simmons.github.io/post/hello-gridea/</id>
+        <link href="https://github.com/Osmond-Simmons/Osmond-Simmons.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
